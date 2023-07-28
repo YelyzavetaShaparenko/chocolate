@@ -1,20 +1,25 @@
  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden">
   <defs>
-    <symbol id="icon-ship" viewBox="0 0 28 32">
-<path d="M-8.696-9.143h44.348v44.8h-44.348v-44.8z"></path>
-</symbol>
+  <!--Logo-svg- зображення корабля для header та footer ; Fill-видалений -->
+      <symbol id="icon-logo" viewBox="0 0 32 32">
+      <path d="M31.94 24.371a.505.505 0 0 0-.445-.266H19.026v-4.156h10.747a.505.505 0 0 0 .416-.789L19.026 2.882v-.654a.504.504 0 1 0-1.008 0v3.403L10.991 18.34a.504.504 0 0 0 .441.748h5.414a.504.504 0 1 0 0-1.008h-4.559l5.73-10.364v16.39h-1.029v-.249a3.199 3.199 0 0 0-3.195-3.195H9.616V8.993a.504.504 0 1 0-1.008 0v.148l-6.8 10.021a.502.502 0 0 0 .418.787h5.165a.504.504 0 1 0 0-1.008H3.178l5.431-8.003v9.725H7.392a.504.504 0 0 0-.504.504v1.217H3.949a.504.504 0 0 0-.504.504v1.217H.506a.506.506 0 0 0-.478.663l1.722 5.165a.505.505 0 0 0 .479.345h25.826a.504.504 0 0 0 .42-.225l3.443-5.165a.505.505 0 0 0 .025-.518zm-3.124-5.432h-9.79V4.664l9.79 14.275zm-1.034 10.33H2.59l-1.385-4.156h13.256a.504.504 0 1 0 0-1.008H4.453v-.713h2.939a.504.504 0 0 0 .504-.504v-1.217h5.898c.638 0 1.214.275 1.614.713H9.544a.504.504 0 1 0 0 1.008h6.386c.032.15.05.305.05.464v.753a.504.504 0 0 0 .587.497.457.457 0 0 0 .083.007h13.903l-2.771 4.156z"/>
+    </symbol>
+    <!--Ліва та права стрілочки для "Swiper" в блоці "YahtsBlock"-->
     <symbol id="icon-Arrow-left" viewBox="0 0 58 32">
       <path fill="#f6f5ef" d="M17.6 2.144 0 16l17.6 13.856V18.4h40v-4.8h-40V2.144z" style="fill:var(--color1, #f6f5ef)"/>
     </symbol>
     <symbol id="icon-Arrow-right" viewBox="0 0 58 32">
       <path fill="#f6f5ef" d="M40 2.144 57.6 16 40 29.856V18.4H0v-4.8h40V2.144z" style="fill:var(--color1, #f6f5ef)"/>
     </symbol>
+    <!--Стрілочка вгору для кнопки "back to top"-->
     <symbol id="icon-Arrow-up" viewBox="0 0 17 32">
       <path fill="#f6f5ef" d="M0 9.778 8.533 0l8.533 9.778h-7.055V32H7.055V9.778H0z" style="fill:var(--color1, #f6f5ef)"/>
     </symbol>
+    <!--Хрестик-кнопка для модального вікна в блоці "RentBlock"-->
     <symbol id="icon-close-modal" viewBox="0 0 32 32">
       <path fill="none" stroke="#f6f5ef" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.733" d="M24 8 8 24M8 8l16 16" style="stroke:var(--color1, #f6f5ef)"/>
     </symbol>
+    <!--Іконки-посилання на соціальні мережі в блоці "Footer"-->
     <symbol id="icon-facebook" viewBox="0 0 18 32">
       <path fill="#f6f5ef" d="M14.45 5.602h2.924V.655a40.727 40.727 0 0 0-4.262-.218c-4.231 0-7.124 2.582-7.124 7.311v4.076H1.212v5.538h4.776v14.187h5.724V17.362h4.76l.716-5.538h-5.476V8.293c0-1.633.436-2.691 2.738-2.691z" style="fill:var(--color1, #f6f5ef)"/>
     </symbol>
